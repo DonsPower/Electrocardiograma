@@ -1,0 +1,7 @@
+Fecha de Elaboracion: 14 de mayo del 2018
+Elaborador: Juan Hernandez Montalvo
+Carrera: Ingenieria en Sistemas Computacionales
+Programa desarrollada: Arduino ID Version 1.8.5
+
+Materiales:
+-->No recuerdo XD
